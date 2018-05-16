@@ -16,3 +16,7 @@ I'm learning python so I decided to rewrite the app. It works in the console. I 
 
 1.  [gspread](https://github.com/burnash/gspread)
 2.  [oauth2client](https://github.com/google/oauth2client)
+
+## Screenshot
+
+![screenshot](./screen.png)
